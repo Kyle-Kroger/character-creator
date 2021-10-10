@@ -1,0 +1,7 @@
+.lowerShading {
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  top: 60%;
+  background-color: hsl(195deg, 20%, 86%);
+}
